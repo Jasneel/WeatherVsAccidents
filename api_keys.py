@@ -1,3 +1,0 @@
-weather_api_key="89d9169ee414cfe030dbc6434c0e1b5c"
-
-geoapify_key="0c3c2c448636404296edcb6cb1cc3837"
