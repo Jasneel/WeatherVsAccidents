@@ -6,14 +6,17 @@ This project allows you the chance to dig deeply into the quantity of accidents 
 
 **Team Members:** Giovana Ribeiro, Jasneel Mahal, John P. John, Jose Dominguez, Kirandeep Kaur
 
+# Accidents with Fatalities - USA
+
+![image](https://github.com/Jasneel/WeatherVsAccidents/blob/main/Accident_USA.png)
+
+This graph shows the total number of accidents that happened in USA from the year 2017 to 2020 in various states of the country.
 
 # Drunk Driving Accidents with Fatalities - USA
 
 ![image](https://github.com/Jasneel/WeatherVsAccidents/blob/main/Accident_Drunk.png)
 
-# Accidents with Fatalities - USA
-
-![image](https://github.com/Jasneel/WeatherVsAccidents/blob/main/Accident_USA.png)
+We were able to present this information through an amazing graph that is shaped like a map of the United States of America and is based on latitudes and longitudes of various locations to indicate which regions of the nation had more or less drunk drivers who were involved in fatal accidents.
 
 # Number of Accidents in each month of 2020
 
